@@ -1,26 +1,26 @@
-<h1 align="center">Hi 👋, I'm Masha</h1>
+<h1 align="center">Hi 👋, I'm Dhivya</h1>
 
 <h3 align="center">
 Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 </h3>
 
 <p align="center">
-🚀 Learning every day and building projects with consistency
+ Learning every day and building projects with consistency
 </p>
 
 ---
 
-# 💫 About Me
+#  About Me
 
-- 🌱 Currently learning Full Stack Development and AI
-- 💻 Interested in Web Development, Flutter and Machine Learning
-- 🎯 Solving coding problems on LeetCode
-- ⚡ Building beginner-friendly real-world projects
-- 🚀 Improving problem-solving skills every day
+-  Currently learning Full Stack Development and AI
+-  Interested in Web Development, Flutter and Machine Learning
+-  Solving coding problems on LeetCode
+-  Building beginner-friendly real-world projects
+-  Improving problem-solving skills every day
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 
@@ -36,7 +36,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 💻 Programming Languages
+#  Programming Languages
 
 <p>
 
@@ -56,7 +56,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# ☁️ Hosting / SaaS
+#  Hosting 
 
 <p>
 
@@ -72,7 +72,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 🚀 Frameworks, Platforms & Libraries
+#  Frameworks, Platforms & Libraries
 
 <p>
 
@@ -88,7 +88,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 🗄️ Database
+#  Database
 
 <p>
 
@@ -100,7 +100,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 🎨 Design Tools
+#  Design Tools
 
 <p>
 
@@ -112,7 +112,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 🤖 Machine Learning
+#  Machine Learning
 
 <p>
 
@@ -124,7 +124,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 🛠️ Others
+#  Others
 
 <p>
 
@@ -136,7 +136,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Masha-Git-123&theme=tokyonight&show_icons=true)
 
@@ -144,13 +144,13 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 ![](https://streak-stats.demolab.com/?user=Masha-Git-123&theme=tokyonight)
 
 ---
 
-# 🧠 LeetCode
+#  LeetCode
 
 <p align="left">
 Coding consistently to improve problem-solving and DSA skills 🚀
@@ -158,7 +158,7 @@ Coding consistently to improve problem-solving and DSA skills 🚀
 
 ---
 
-# ✨ Motivation
+#  Motivation
 
 <div align="center">
 
