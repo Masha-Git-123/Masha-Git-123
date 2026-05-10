@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Dhivya</h1>
 
 <h3 align="center">
@@ -5,7 +6,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 </h3>
 
 <p align="center">
- Learning every day and building projects with consistency
+Learning every day and building projects with consistency 🚀
 </p>
 
 ---
@@ -13,22 +14,22 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 #  About Me
 
 -  Currently learning Full Stack Development and AI
--  Interested in Web Development, Flutter and Machine Learning
+-  Interested in Web Development, Flutter, and Machine Learning
 -  Solving coding problems on LeetCode
 -  Building beginner-friendly real-world projects
 -  Improving problem-solving skills every day
 
 ---
 
-#  Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/dhivyasaravanan-s">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Ywtong9JiI/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -56,7 +57,7 @@ Passionate Developer | Flutter Learner | AI & Web Development Enthusiast
 
 ---
 
-#  Hosting 
+#  Hosting
 
 <p>
 
@@ -169,3 +170,4 @@ Coding consistently to improve problem-solving and DSA skills 🚀
 ### "Consistency beats talent when talent doesn't work hard."
 
 </div>
+```
