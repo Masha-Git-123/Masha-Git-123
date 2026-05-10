@@ -11,13 +11,13 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  About Me
+# 💫 About Me
 
--  Currently learning Full Stack Development and AI
--  Interested in Web Development, Flutter, and Machine Learning
--  Solving coding problems on LeetCode
--  Building beginner-friendly real-world projects
--  Improving problem-solving skills every day
+- 🌱 Currently learning Full Stack Development and AI
+- 💻 Interested in Web Development, Flutter, and Machine Learning
+- 🧠 Solving coding problems on LeetCode
+- 🚀 Building beginner-friendly real-world projects
+- 📚 Improving problem-solving skills every day
 
 ---
 
@@ -37,7 +37,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  Programming Languages
+# 💻 Programming Languages
 
 <p>
 
@@ -57,7 +57,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  Hosting
+# ☁️ Hosting
 
 <p>
 
@@ -73,7 +73,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  Frameworks, Platforms & Libraries
+# ⚙️ Frameworks, Platforms & Libraries
 
 <p>
 
@@ -89,7 +89,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  Database
+# 🗄️ Database
 
 <p>
 
@@ -101,7 +101,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  Design Tools
+# 🎨 Design Tools
 
 <p>
 
@@ -113,7 +113,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  Machine Learning
+# 🤖 Machine Learning
 
 <p>
 
@@ -137,7 +137,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  GitHub Stats
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Masha-Git-123&theme=tokyonight&show_icons=true)
 
@@ -145,13 +145,13 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  GitHub Streak
+# 🔥 GitHub Streak
 
 ![](https://streak-stats.demolab.com/?user=Masha-Git-123&theme=tokyonight)
 
 ---
 
-#  LeetCode
+# 🧩 LeetCode
 
 <p align="left">
 Coding consistently to improve problem-solving and DSA skills 🚀
@@ -159,7 +159,7 @@ Coding consistently to improve problem-solving and DSA skills 🚀
 
 ---
 
-#  Motivation
+# ✨ Motivation
 
 <div align="center">
 
