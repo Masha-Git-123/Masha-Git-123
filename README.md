@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Dhivya</h1>
 
 <h3 align="center">
@@ -170,4 +170,4 @@ Coding consistently to improve problem-solving and DSA skills 🚀
 ### "Consistency beats talent when talent doesn't work hard."
 
 </div>
-```
+
