@@ -125,7 +125,7 @@ Learning every day and building projects with consistency 🚀
 
 ---
 
-#  Others
+# 🛠️ Others
 
 <p>
 
